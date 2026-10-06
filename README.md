@@ -68,12 +68,10 @@ As the bunches pass back through the resonator grids they interact with the gap 
 13. Change the repeller voltage and read the power and frequency for each repeller voltage.
 
 ## Observation
-
-*(Include your own table relevant to the experiment.)*
-
+<img width="1600" height="1325" alt="image" src="https://github.com/user-attachments/assets/b1babf37-c14e-417c-a147-cbd339481f92" />
 ## Graph
 
-*(Include your own graph relevant to the experiment.)*
+<img width="1170" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ad4833c-6093-45ea-9451-b12889a679e8" />
 
 ## Precautions
 
